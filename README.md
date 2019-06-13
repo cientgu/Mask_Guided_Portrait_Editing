@@ -1,5 +1,5 @@
 # Mask-Guided Portrait Editing with Conditional GANs
-This is an official pytorch implementation of "Mask-Guided Portrait Editing with Conditional GANs". The major contributors of this repository include Shuyang Gu, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen, Lu Yuan at Microsoft Research.
+This is an official pytorch implementation of "Mask-Guided Portrait Editing with Conditional GANs"(CVPR2019). The major contributors of this repository include Shuyang Gu, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen, Lu Yuan at Microsoft Research.
 
 ## Introduction
 
