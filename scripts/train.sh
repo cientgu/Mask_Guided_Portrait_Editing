@@ -1,0 +1,1 @@
+python train.py --name face_256 --batchSize 4 --gpu_ids '0,1' --no_instance --dataroot ./datasets/helen_align/ --resize_or_crop none  --label_nc 11 --n_downsample_global 2 --longSize 256 --norm batch --display_freq 30 --data_augmentation --niter 10 --niter_decay 45 --mask_model --no_lsgan --debug_mask_part

@@ -1,0 +1,1 @@
+python test_edit_free.py --name pretrained/ --no_instance --dataroot ./datasets/helen_edit2/ --resize_or_crop none --label_nc 11 --n_downsample_global 2 --longSize 256 --norm batch --mask_model --debug_mask_part --phase editfree --phase2 editfree --test_type encode
